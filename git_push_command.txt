@@ -1,7 +1,7 @@
 NEWDATE=$(date "+%H:%M:%S   %d/%m/%y")
 git init
 git add *
-git commit -m "NEWDATE"
+git commit -m "$NEWDATE"
 git remote add origin https://github.com/amatur/Android-AQBox.git
 git push -u origin master
 
