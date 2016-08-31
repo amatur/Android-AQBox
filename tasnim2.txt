@@ -1,0 +1,8 @@
+NEWDATE=$(date "+%H:%M:%S   %d/%m/%y")
+git init
+git add *
+git commit -a -m "removed $NEWDATE"
+git remote add origin https://github.com/amatur/Android-AQBox.git
+git push -f -u origin master
+#git clean -fdx
+#git pull origin master?it 
