@@ -6,3 +6,4 @@ git remote add origin https://github.com/amatur/Android-AQBox.git
 git push -f -u origin master
 #git clean -fdx
 #git pull origin master?it 
+#git add --force * #to add gitignore too.
