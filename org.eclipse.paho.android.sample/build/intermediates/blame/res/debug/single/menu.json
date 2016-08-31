@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/tasnim/JavaProjects/paho.mqtt.android-master/org.eclipse.paho.android.sample/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/tasnim/JavaProjects/paho.mqtt.android-master/org.eclipse.paho.android.sample/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/tasnim/JavaProjects/paho.mqtt.android-master/org.eclipse.paho.android.sample/build/intermediates/res/merged/debug/menu/menu_edit_connection.xml",
+        "source": "/home/tasnim/JavaProjects/paho.mqtt.android-master/org.eclipse.paho.android.sample/src/main/res/menu/menu_edit_connection.xml"
+    },
+    {
+        "merged": "/home/tasnim/JavaProjects/paho.mqtt.android-master/org.eclipse.paho.android.sample/build/intermediates/res/merged/debug/menu/menu_connection.xml",
+        "source": "/home/tasnim/JavaProjects/paho.mqtt.android-master/org.eclipse.paho.android.sample/src/main/res/menu/menu_connection.xml"
+    }
+]
